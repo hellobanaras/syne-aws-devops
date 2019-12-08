@@ -3,3 +3,5 @@ This is my second git text line.
 This is my third git text line.
 This is my fourth git text line in the development branch.
 This is my fifth git text line in the master branch.
+This is my sixth git text line for remote repo.
+
